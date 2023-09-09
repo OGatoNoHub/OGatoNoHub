@@ -1,12 +1,7 @@
 ### Hi there, I'm OGatoNoHub 👋
 
-<!--
-**OGatoNoHub/OGatoNoHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellington-soares-lopes)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devreset)
-
-![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api?username=Wellington-lopes&show_icons=true&theme=tokyonight) 
-![Wellington Lopes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wellington-lopes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight)
+![OGatoNoHub GitHub stats](https://github-readme-stats.vercel.app/api?username=OGatoNoHub&show_icons=true&theme=tokyonight) 
+![OGatoNoHub GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OGatoNoHub&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
